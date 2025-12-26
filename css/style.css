@@ -361,6 +361,12 @@ body {
 
 }
 
+.questions_item active .questions_quet.{
+
+  border: 3px solid gray;
+
+}
+
 .questions_quet:hover .questions_quet_img path {
   stroke: #FF6600;
 }
@@ -375,6 +381,8 @@ body {
   overflow: hidden;
   transition: max-height 1s, padding 1s
 }
+
+
 
 .questions_item.active .questions_otvet {
   max-height: 10000px;
