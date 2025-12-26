@@ -19,15 +19,7 @@ $('.work_spisok').slick({
     slidesToScroll: 1,
     arrows: false,
     dots: true
-    // responsive: [
-    //     {
-    //         breakpoint: 891,
-    //         settings: {
-    //             arrows: false,
-    //             dots: true
-    //         }
-    //     }
-    // ]
+ 
 });
 
 document.addEventListener('DOMContentLoaded', function () {
