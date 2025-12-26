@@ -361,7 +361,7 @@ body {
 
 }
 
-.questions_item active .questions_quet.{
+.questions_item active .questions_quet{
 
   border: 3px solid gray;
 
